@@ -4,5 +4,5 @@ Sphere.(use final keyword) */
 package com.assign_2.interfaceShape;
 
 public interface Shape {
-    public abstract void area();
+    public abstract void area();    
 }
